@@ -51,8 +51,6 @@ var appPath = projectPath + "/code/meteor_app/";
 
 var maxNumRuleSeenSoFar = 3;
 
-var openaiApiKey = "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"
-
 Meteor.startup(() => {
 
   //to load new data into the database, run this command:
