@@ -36,12 +36,6 @@ Use one of the following commands to start SWIRL:
 ```
 WARNING_JSON_NAME=infer_warnings_alibaba_nacos_NULL_DEREFERENCE meteor 
 
-WARNING_TYPE=RESOURCE_LEAK__presto WARNING_JSON_NAME=infer_warnings_prestodb_presto_RESOURCE_LEAK meteor 
-
-WARNING_TYPE=NULL_DEREFERENCE__toy_analysis WARNING_JSON_NAME=infer_warnings_kanghj_toy_analysis_NULL_DEREFERENCE meteor
-
-WARNING_TYPE=RESOURCE_LEAK__toy_analysis WARNING_JSON_NAME=infer_warnings_kanghj_toy_analysis_RESOURCE_LEAK meteor
-
 WARNING_TYPE=apache_lucene-solr__NULL_ WARNING_JSON_NAME=spotbugs_warnings_apache_lucene-solr__NULL_ meteor 
 ```
 
